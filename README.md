@@ -1,4 +1,4 @@
-# Software Identity Disambiguation Benchmark
+# Software identity resolution benchmark
 
 This repository provides a benchmark for evaluating the performance of language models in resolving identity conflicts in research software metadata. It includes gold standard annotations, evaluation scripts, and visualizations comparing automated and human disambiguation.
 

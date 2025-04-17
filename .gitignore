@@ -1,3 +1,4 @@
 .qodo
 *raw*
 data/grouped_entries.json
+.env
