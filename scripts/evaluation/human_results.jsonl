@@ -1,0 +1,100 @@
+{"slimfastq/*": {"verdict": "same", "confidence": "high", "explanation": "Same sourceforge page and descriptions refer to the same function"}}
+{"pyfastx/*": {"verdict": "same", "confidence": "high", "explanation": "PyPI and github readme are the same. "}}
+{"prinseq/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same purpose and same documentation page as webpage in 1"}}
+{"bioconductor-lipidr/lib": {"verdict": "same", "confidence": "high", "explanation": "Same authors and same githubs (found in the provided webpages)"}}
+{"repet/cmd": {"verdict": "same", "confidence": "high", "explanation": "Webpages redirect to the same page and the author is the same"}}
+{"bmge/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same suthors and publication"}}
+{"rfmix/cmd": {"verdict": "unclear", "confidence": NaN, "explanation": "No common links or author, but description is similar"}}
+{"metilene/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same links for documentation"}}
+{"hyphy/*": {"verdict": "same", "confidence": "low", "explanation": "SF user is the same as main contributor in github. The programming language is the same. "}}
+{"raresim/lib": {"verdict": "same", "confidence": "high", "explanation": "Common main author and publication (found inside webpage and github)"}}
+{"kma/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same repository"}}
+{"translig/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same sourceforge page"}}
+{"racon/*": {"verdict": "same", "confidence": "medium", "explanation": "One github links the other. READMEs are the same. It seems at some point the project was moved from one owner to another."}}
+{"pizzly/cmd": {"verdict": "same", "confidence": "high", "explanation": "Link to biotools with same github in entry 1."}}
+{"sparsedossa2/lib": {"verdict": "same", "confidence": "low", "explanation": "Bioconductor author is the main contributor to github (found in webpage)"}}
+{"bioconductor-crisprverse/lib": {"verdict": "same", "confidence": "low", "explanation": "Same publication and github organization"}}
+{"percolator/cmd": {"verdict": "same", "confidence": "low", "explanation": "Common author, description 1 is paper title in webpage of 2."}}
+{"ncbi-fcs-gx/cmd": {"verdict": "different", "confidence": "medium", "explanation": "Different authors"}}
+{"banner/cmd": {"verdict": "different", "confidence": "high", "explanation": "Different licenses, different descriptions and domain"}}
+{"escher/lib": {"verdict": "different", "confidence": "high", "explanation": "Different github repos. Similar but different functionality. Different authors"}}
+{"roddy/cmd": {"verdict": "same", "confidence": "low", "explanation": "Similar description and institution. Authors appear in one github."}}
+{"gplas/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same repository"}}
+{"nebulosa/lib": {"verdict": "same", "confidence": "high", "explanation": "Same github repository"}}
+{"crossicc/lib": {"verdict": "same", "confidence": "medium", "explanation": "Similar descriptions and same authors."}}
+{"instrain/*": {"verdict": "same", "confidence": "high", "explanation": "Same repository (found in readthedocs)"}}
+{"pydockweb/web": {"verdict": "same", "confidence": "medium", "explanation": "Same description, publication and appearance."}}
+{"bioconductor-mixomics/lib": {"verdict": "same", "confidence": "high", "explanation": "Same repository (found in bioconductor webpage)"}}
+{"mustang/cmd": {"verdict": "unclear", "confidence": NaN, "explanation": "URL not accessible"}}
+{"consent/cmd": {"verdict": "different", "confidence": "high", "explanation": "Diferent description and repositories."}}
+{"mendelscan/*": {"verdict": "same", "confidence": "low", "explanation": "Common author and purpose. Same programming language."}}
+{"snakemake/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same readthedocs and description"}}
+{"sina/*": {"verdict": "same", "confidence": "medium", "explanation": "Same purpose and publication"}}
+{"metabuli/cmd": {"verdict": "same", "confidence": "high", "explanation": "Webpage of 1 redirects to repository of 2"}}
+{"bamtools/suite": {"verdict": "same", "confidence": "high", "explanation": "Same description, wiki, authors"}}
+{"mea/cmd": {"verdict": "different", "confidence": "high", "explanation": "Different purposes, publications and authors"}}
+{"plink/cmd": {"verdict": "same", "confidence": "high", "explanation": "Reference of one in the other. Similar description"}}
+{"masurca/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same github repository"}}
+{"msaboot/cmd": {"verdict": "same", "confidence": "high", "explanation": "galaxy points to the same github repository"}}
+{"morpheus/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same purpose, similar descriptions and common author"}}
+{"lra/*": {"verdict": "different", "confidence": "medium", "explanation": "Different purposes "}}
+{"longstitch/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same repository"}}
+{"mash/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same repository"}}
+{"unitas/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same website (found in sourceforge)"}}
+{"xxmotif/cmd": {"verdict": "same", "confidence": "low", "explanation": "Belongs to the same lab and has same purpose"}}
+{"oncocnv/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same lab and purpose"}}
+{"ccat/cmd": {"verdict": "unclear", "confidence": NaN, "explanation": "URL not accessible. Not enough data."}}
+{"diseasemeth/*": {"verdict": "same", "confidence": "medium", "explanation": "Same description and one common author. But websites are inaccessible. "}}
+{"tiaas/*": {"verdict": "same", "confidence": "low", "explanation": "Same purpose and main author"}}
+{"kaptive/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same repository found in website"}}
+{"sap/cmd": {"verdict": "different", "confidence": "high", "explanation": "Different  repositories and authors. Domain is the same, but not purpose."}}
+{"fusioncatcher/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Similar description. Authors with same name and initial. Readme and webpage mention common articles."}}
+{"binning/*": {"verdict": "different", "confidence": "medium", "explanation": "Different repositories and purposes."}}
+{"mir-prefer/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Similar purpose and apparently same author."}}
+{"fraggenescan/cmd": {"verdict": "same", "confidence": "low", "explanation": "Same description. But very little information."}}
+{"ale/cmd": {"verdict": "different", "confidence": "high", "explanation": "Different purposes, repos and authors"}}
+{"pilon/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same desription and citation"}}
+{"piranha/cmd": {"verdict": "same", "confidence": "low", "explanation": "Same description. But very little information."}}
+{"mango/cmd": {"verdict": "different", "confidence": "low", "explanation": "Different purposes. But little info, since one repo was removed."}}
+{"bamhash/cmd": {"verdict": "same", "confidence": "low", "explanation": "Similar description. Little data"}}
+{"transtermhp/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same purpose and description and citation. "}}
+{"modle/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same description and repository"}}
+{"mapsplice/cmd": {"verdict": "same", "confidence": "low", "explanation": "Same purpose and lab. URLs not accessible."}}
+{"razers3/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same purpose and repositories (found inside webpage)"}}
+{"edena/cmd": {"verdict": "same", "confidence": "low", "explanation": "Same description and web, but inaccessible."}}
+{"sortmerna/*": {"verdict": "same", "confidence": "low", "explanation": "Same description and one common inaccessible webpage"}}
+{"gffread/cmd": {"verdict": "different", "confidence": "medium", "explanation": "Different citation and authors"}}
+{"agotool/soap": {"verdict": "same", "confidence": "medium", "explanation": "Same description, type and author. "}}
+{"stringtie/cmd": {"verdict": "same", "confidence": "high", "explanation": "Common publication. Same documentation refered in galaxy text in readme"}}
+{"xtandem/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same description and webpage"}}
+{"hisat2/cmd": {"verdict": "same", "confidence": "low", "explanation": "Same description and authors. But one implementation seems posterior. However, the versions are the same "}}
+{"export2graphlan/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same description and publication"}}
+{"pfp/cmd": {"verdict": "different", "confidence": "medium", "explanation": "Different purpose."}}
+{"hardklor/cmd": {"verdict": "same", "confidence": "low", "explanation": "Same purpose, but little info."}}
+{"bioconductor-deseq2/lib": {"verdict": "same", "confidence": "medium", "explanation": "Same citation"}}
+{"preseq/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Common author and description."}}
+{"mumer4/cmd": {"verdict": "different", "confidence": "medium", "explanation": "Different purpose, authors, etc"}}
+{"orientagraph/cmd": {"verdict": "same", "confidence": "high", "explanation": "Similar description and repository of 1 redirects to repository of 2."}}
+{"biotransformer/*": {"verdict": "same", "confidence": "high", "explanation": "Same purpose, common citation and repository of 2 found in webpage of 1"}}
+{"odamnet/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same PyPI page and repository (found in webpage for 1)"}}
+{"metacoag/cmd": {"verdict": "same", "confidence": "high", "explanation": "Similar description and repository of 1 redirects to repository of 2."}}
+{"pegs/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same purpose and common author. Webpage of 1 found in repository of 2."}}
+{"cmfinder/cmd": {"verdict": "same", "confidence": "low", "explanation": "Purposes are similar and there is one shared author."}}
+{"drawcell/lib": {"verdict": "different", "confidence": "low", "explanation": "Different description and different authors."}}
+{"ucsc-twobittofa/cmd": {"verdict": "same", "confidence": "medium", "explanation": "Same purpose and both are ucsc tools"}}
+{"emmtyper/cmd": {"verdict": "same", "confidence": "low", "explanation": "Repo of 1 does not exist anymore but it is very similar to repository in 2"}}
+{"spades/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same description and repository in 2 found in webpage of 1"}}
+{"minimap/cmd": {"verdict": "different", "confidence": "medium", "explanation": "Different repositories. One is the successor of the other, but view by authors as different software."}}
+{"ectyper/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same purpose. Repository of 2 in webapge of 1."}}
+{"bioconductor-mygene/lib": {"verdict": "different", "confidence": "medium", "explanation": "Same purposes but one is written in R and the other in R. Both access the same service."}}
+{"pyrpipe/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same purpose, simliar descriptions and repository of 2 found in webpage of 1."}}
+{"bioconductor-atsnp/lib": {"verdict": "same", "confidence": "medium", "explanation": "Similar purpose, same author and publication"}}
+{"expressionview/lib": {"verdict": "same", "confidence": "medium", "explanation": "Same purpose, programming language, maintainer and reference to biocoductor in 1."}}
+{"cryfa/cmd": {"verdict": "same", "confidence": "medium", "explanation": "One repository a fork of the other."}}
+{"gffcompare/cmd": {"verdict": "different", "confidence": "low", "explanation": "One common author and same purpose, but different publications."}}
+{"kmc/cmd": {"verdict": "same", "confidence": "high", "explanation": "Same description. Repository of 2 appers in website 1."}}
+{"esco/lib": {"verdict": "same", "confidence": "low", "explanation": "Similar purpose, same programming language. Author in 1 first author of publication of 2. "}}
+{"a5/cmd": {"verdict": "same", "confidence": "low", "explanation": "Name of 1 included in website of 2. Same purpose"}}
+{"rcorrector/cmd": {"verdict": "different", "confidence": "low", "explanation": "Different repository and code. One seems a wrapper of the other."}}
+{"bioconductor-multiwgcna/lib": {"verdict": "same", "confidence": "high", "explanation": "Same purpose, simliar description, same citation and 1 refers to being in bioconductor (2)"}}
+{"bioconductor-dune/lib": {"verdict": "same", "confidence": "high", "explanation": "Same purpose, simliar description, same citation and 1 refers to being in bioconductor (2)"}}

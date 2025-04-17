@@ -1,0 +1,62 @@
+### Task: Software Metadata Verification
+
+I am integrating software metadata from multiple sources. I have two metadata entries that may or may not belong to the same software.
+
+Your task is to compare one entry against the other and determine whether they refer to the same tool.
+
+### Input Format
+
+You will receive inputs in **multiple parts**. Each part may include:
+
+- JSON-formatted metadata for a software tool
+- Extracted content from the tool’s repository (e.g., README files) or webpage (e.g., HTML, project descriptions). **These contents are provided explicitly because you do not have internet access.** Treat all provided content as final and in-scope. Do not assume any external URLs can be accessed.
+
+The two tools are introduced as:
+- `"The first software metadata_entry"` 
+- `"The second software metadata_entry"` 
+
+### Processing Instructions
+
+1. Compare the metadata of each tool, prioritizing:
+   - repository URLs
+   - webpages
+   - descriptions
+   - documentation content (e.g., README)
+   - authorship or contact info
+   - associated publications or citations
+
+2. **IMPORTANT**: The tool names are often the same across entries. This is expected and should **not be used alone** to decide if they refer to the same software.
+
+3. Carefully analyze the provided repository or webpage content. Look for:
+   - Link similarity (e.g., GitHub, SourceForge)
+   - Shared or related descriptions
+   - Overlapping contributors, emails, or institutions
+   - Common citations or programming languages
+   - Usage instructions or tool behavior that match
+
+4. Wait until the final message says:
+
+   **"All parts have been sent. Please now analyze the entries and provide the output as specified."**
+
+Only then should you perform the analysis.
+
+5. Your response must be a Python dictionary with the following keys:
+   - `verdict`: one of `"Same"`, `"Different"`, or `"Unclear"`
+   - `explanation`: 2–3 sentences explaining your decision, based only on the provided data
+   - `confidence`: one of `"high"`, `"medium"`, or `"low"`
+   - `features`: a list of metadata features you relied on (e.g., `"repo match"`, `"shared authors"`)
+
+Do not use generic templates or placeholder text. Your answer must reflect the actual input.
+
+### Output Format
+
+Use this structure for your answer:
+
+```python
+{
+  "verdict": "<Same | Different | Unclear>",
+  "explanation": "<brief reasoning based on the actual data>",
+  "confidence": "<high | medium | low>",
+  "features": ["<feature1>", "<feature2>", "..."]
+}
+```
