@@ -1,0 +1,101 @@
+entry_id,human_decision,human_confidence,human_rationale,hard
+slimfastq/*,same,high,Same sourceforge page and descriptions refer to the same function,FALSE
+pyfastx/*,same,high,PyPI and github readme are the same. ,FALSE
+prinseq/cmd,same,medium,Same purpose and same documentation page as webpage in 1,FALSE
+bioconductor-lipidr/lib,same,high,Same authors and same githubs (found in the provided webpages),FALSE
+repet/cmd,same,high,Webpages redirect to the same page and the author is the same,FALSE
+bmge/cmd,same,medium,Same suthors and publication,FALSE
+rfmix/cmd,unclear,,"No common links or author, but description is similar",TRUE
+metilene/cmd,same,medium,Same links for documentation,FALSE
+hyphy/*,same,low,SF user is the same as main contributor in github. The programming language is the same. ,TRUE
+raresim/lib,same,high,Common main author and publication (found inside webpage and github),FALSE
+kma/cmd,same,high,Same repository,FALSE
+translig/cmd,same,high,Same sourceforge page,FALSE
+racon/*,same,medium,One github links the other. READMEs are the same. It seems at some point the project was moved from one owner to another.,FALSE
+pizzly/cmd,same,high,Link to biotools with same github in entry 1.,FALSE
+sparsedossa2/lib,same,low,Bioconductor author is the main contributor to github (found in webpage),TRUE
+bioconductor-crisprverse/lib,same,low,Same publication and github organization,TRUE
+percolator/cmd,same,low,"Common author, description 1 is paper title in webpage of 2.",TRUE
+ncbi-fcs-gx/cmd,different,medium,Different authors,FALSE
+banner/cmd,different,high,"Different licenses, different descriptions and domain",FALSE
+escher/lib,different,high,Different github repos. Similar but different functionality. Different authors,FALSE
+roddy/cmd,same,low,Similar description and institution. Authors appear in one github.,TRUE
+gplas/cmd,same,high,Same repository,FALSE
+nebulosa/lib,same,high,Same github repository,FALSE
+crossicc/lib,same,medium,Similar descriptions and same authors.,FALSE
+instrain/*,same,high,Same repository (found in readthedocs),FALSE
+pydockweb/web,same,medium,"Same description, publication and appearance.",FALSE
+bioconductor-mixomics/lib,same,high,Same repository (found in bioconductor webpage),FALSE
+mustang/cmd,unclear,,URL not accessible,TRUE
+consent/cmd,different,high,Diferent description and repositories.,FALSE
+mendelscan/*,same,low,Common author and purpose. Same programming language.,TRUE
+snakemake/cmd,same,high,Same readthedocs and description,FALSE
+sina/*,same,medium,Same purpose and publication,FALSE
+metabuli/cmd,same,high,Webpage of 1 redirects to repository of 2,FALSE
+bamtools/suite,same,high,"Same description, wiki, authors",FALSE
+mea/cmd,different,high,"Different purposes, publications and authors",FALSE
+plink/cmd,same,high,Reference of one in the other. Similar description,FALSE
+masurca/cmd,same,high,Same github repository,FALSE
+msaboot/cmd,same,high,galaxy points to the same github repository,FALSE
+morpheus/cmd,same,medium,"Same purpose, similar descriptions and common author",FALSE
+lra/*,different,medium,Different purposes ,FALSE
+longstitch/cmd,same,high,Same repository,FALSE
+mash/cmd,same,high,Same repository,FALSE
+unitas/cmd,same,medium,Same website (found in sourceforge),FALSE
+xxmotif/cmd,same,low,Belongs to the same lab and has same purpose,TRUE
+oncocnv/cmd,same,medium,Same lab and purpose,FALSE
+ccat/cmd,unclear,,URL not accessible. Not enough data.,TRUE
+diseasemeth/*,same,medium,Same description and one common author. But websites are inaccessible. ,FALSE
+tiaas/*,same,low,Same purpose and main author,TRUE
+kaptive/cmd,same,high,Same repository found in website,FALSE
+sap/cmd,different,high,"Different  repositories and authors. Domain is the same, but not purpose.",FALSE
+fusioncatcher/cmd,same,medium,Similar description. Authors with same name and initial. Readme and webpage mention common articles.,FALSE
+binning/*,different,medium,Different repositories and purposes.,FALSE
+mir-prefer/cmd,same,medium,Similar purpose and apparently same author.,FALSE
+fraggenescan/cmd,same,low,Same description. But very little information.,TRUE
+ale/cmd,different,high,"Different purposes, repos and authors",FALSE
+pilon/cmd,same,high,Same desription and citation,FALSE
+piranha/cmd,same,low,Same description. But very little information.,TRUE
+mango/cmd,different,low,"Different purposes. But little info, since one repo was removed.",TRUE
+bamhash/cmd,same,low,Similar description. Little data,TRUE
+transtermhp/cmd,same,high,Same purpose and description and citation. ,FALSE
+modle/cmd,same,high,Same description and repository,FALSE
+mapsplice/cmd,same,low,Same purpose and lab. URLs not accessible.,TRUE
+razers3/cmd,same,high,Same purpose and repositories (found inside webpage),FALSE
+edena/cmd,same,low,"Same description and web, but inaccessible.",TRUE
+sortmerna/*,same,low,Same description and one common inaccessible webpage,TRUE
+gffread/cmd,different,medium,Different citation and authors,FALSE
+agotool/soap,same,medium,"Same description, type and author. ",FALSE
+stringtie/cmd,same,high,Common publication. Same documentation refered in galaxy text in readme,FALSE
+xtandem/cmd,same,high,Same description and webpage,FALSE
+hisat2/cmd,same,low,"Same description and authors. But one implementation seems posterior. However, the versions are the same ",TRUE
+export2graphlan/cmd,same,medium,Same description and publication,FALSE
+pfp/cmd,different,medium,Different purpose.,FALSE
+hardklor/cmd,same,low,"Same purpose, but little info.",TRUE
+bioconductor-deseq2/lib,same,medium,Same citation,FALSE
+preseq/cmd,same,medium,Common author and description.,FALSE
+mumer4/cmd,different,medium,"Different purpose, authors, etc",FALSE
+orientagraph/cmd,same,high,Similar description and repository of 1 redirects to repository of 2.,FALSE
+biotransformer/*,same,high,"Same purpose, common citation and repository of 2 found in webpage of 1",FALSE
+odamnet/cmd,same,high,Same PyPI page and repository (found in webpage for 1),FALSE
+metacoag/cmd,same,high,Similar description and repository of 1 redirects to repository of 2.,FALSE
+pegs/cmd,same,high,Same purpose and common author. Webpage of 1 found in repository of 2.,FALSE
+cmfinder/cmd,same,low,Purposes are similar and there is one shared author.,TRUE
+drawcell/lib,different,low,Different description and different authors.,TRUE
+ucsc-twobittofa/cmd,same,medium,Same purpose and both are ucsc tools,FALSE
+emmtyper/cmd,same,low,Repo of 1 does not exist anymore but it is very similar to repository in 2,TRUE
+spades/cmd,same,high,Same description and repository in 2 found in webpage of 1,FALSE
+minimap/cmd,different,medium,"Different repositories. One is the successor of the other, but view by authors as different software.",FALSE
+ectyper/cmd,same,high,Same purpose. Repository of 2 in webapge of 1.,FALSE
+bioconductor-mygene/lib,different,medium,Same purposes but one is written in R and the other in R. Both access the same service.,FALSE
+pyrpipe/cmd,same,high,"Same purpose, simliar descriptions and repository of 2 found in webpage of 1.",FALSE
+bioconductor-atsnp/lib,same,medium,"Similar purpose, same author and publication",FALSE
+expressionview/lib,same,medium,"Same purpose, programming language, maintainer and reference to biocoductor in 1.",FALSE
+cryfa/cmd,same,medium,One repository a fork of the other.,FALSE
+gffcompare/cmd,different,low,"One common author and same purpose, but different publications.",TRUE
+kmc/cmd,same,high,Same description. Repository of 2 appers in website 1.,FALSE
+esco/lib,same,low,"Similar purpose, same programming language. Author in 1 first author of publication of 2. ",TRUE
+a5/cmd,same,low,Name of 1 included in website of 2. Same purpose,TRUE
+rcorrector/cmd,different,low,Different repository and code. One seems a wrapper of the other.,TRUE
+bioconductor-multiwgcna/lib,same,high,"Same purpose, simliar description, same citation and 1 refers to being in bioconductor (2)",FALSE
+bioconductor-dune/lib,same,high,"Same purpose, simliar description, same citation and 1 refers to being in bioconductor (2)",FALSE
